@@ -22,6 +22,9 @@ Lecture Slides: [![Slides](https://raw.githubusercontent.com/kaopanboonyuen/2110
 ## DAY 2: A PRACTICAL INTRODUCTION TO OBJECT DETECTION
 
 - **(AI-PROJECT)** ✈️ Airbus Aircrafts Detection Sample Datase: **source code will be upload soon**
+
+![alt text](https://github.com/kaopanboonyuen/pattern-recognition/raw/main/img/aircraft_result_001.png)
+![alt text](https://github.com/kaopanboonyuen/pattern-recognition/raw/main/img/aircraft_result_002.png)
 ### Reference:
 
 1. https://www.kaggle.com/code
