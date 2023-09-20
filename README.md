@@ -6,7 +6,7 @@ Lecturer: Teerapong Panboonyuen (Kao), Ph.D.
 
 Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
-![alt text](https://github.com/kaopanboonyuen/GISTDA2023/raw/main/img/gistda_days.png)
+![alt text](https://github.com/kaopanboonyuen/pattern-recognition/raw/main/img/main_showcase.png)
 
 ## Short links for lecture slide and exercises:
 
