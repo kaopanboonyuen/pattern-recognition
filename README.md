@@ -14,6 +14,8 @@ Lecture Slides: [![Slides](https://raw.githubusercontent.com/kaopanboonyuen/2110
 
 ## DAY 1: A PRACTICAL INTRODUCTION TO DEEP LEARNING AND IMAGE CLASSIFICATION
 
+- Python Recap: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/BasicPython.ipynb)
+
 - TensorFlow-Beginner: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/pattern-recognition/blob/main/code/deeplearning/DAY1/beginner.ipynb)
 
 - **(AI-PROJECT)** Mango🥭 Leaf🍃🍂 Disease Dataset: **source code will be upload soon**
