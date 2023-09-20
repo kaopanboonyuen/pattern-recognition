@@ -1,4 +1,4 @@
-# PATTERN RECOGNTION COURSE (2023)
+# PATTERN RECOGNITION COURSE (2023)
 
 [![Support-Ukraine](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/Support-Ukraine-FFD500.svg)](https://supportukrainenow.org/)
 
@@ -36,3 +36,4 @@ Lecture Slides: [![Slides](https://raw.githubusercontent.com/kaopanboonyuen/2110
 6. http://cs231n.stanford.edu/slides/2021/lecture_5.pdf
 7. https://blog.streamlit.io/deep-learning-apps-for-image-processing-made-easy-a-step-by-step-guide/
 8. https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
+9. https://www.kaggle.com/datasets/airbusgeo/airbus-aircrafts-sample-dataset
