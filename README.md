@@ -34,3 +34,4 @@ Lecture Slides: [![Slides](https://raw.githubusercontent.com/kaopanboonyuen/2110
 5. https://www.analyticsvidhya.com/blog/2021/12/disaster-tweet-classification-using-bert-neural-network/
 6. http://cs231n.stanford.edu/slides/2021/lecture_5.pdf
 7. https://blog.streamlit.io/deep-learning-apps-for-image-processing-made-easy-a-step-by-step-guide/
+8. https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
