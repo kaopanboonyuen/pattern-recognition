@@ -22,7 +22,7 @@ Lecture Slides: [![Slides](https://raw.githubusercontent.com/kaopanboonyuen/2110
 - TensorFlow-FashionMNIST: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/pattern-recognition/blob/main/code/deeplearning/DAY1/ex1_fashion_mnist_image_classification_with_cnn.ipynb)
 - TensorFlow-TransferLearning: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/pattern-recognition/blob/main/code/deeplearning/DAY1/transfer_learning.ipynb)
 
-- **(AI-PROJECT)** Mango🥭 Leaf🍃🍂 Disease Dataset: **source code will be upload soon**
+- **(AI-PROJECT)** Mango🥭 Leaf🍃🍂 Disease Dataset: - TensorFlow-TransferLearning: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/pattern-recognition/blob/main/code/deeplearning/DAY1/mango_leaf_train_and_save_weight.ipynb)
 ## DAY 2: A PRACTICAL INTRODUCTION TO OBJECT DETECTION
 
 - **(AI-PROJECT)** ✈️ Airbus Aircrafts Detection Sample Datase: **source code will be upload soon**
