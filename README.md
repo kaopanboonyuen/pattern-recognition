@@ -18,6 +18,7 @@ Lecture Slides: [![Slides](https://raw.githubusercontent.com/kaopanboonyuen/2110
 
 - TensorFlow-Beginner: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/pattern-recognition/blob/main/code/deeplearning/DAY1/beginner.ipynb)
 - TensorFlow-Advanced: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/pattern-recognition/blob/main/code/deeplearning/DAY1/advanced.ipynb)
+- TensorFlow-Classification: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/pattern-recognition/blob/main/code/deeplearning/DAY1/classification.ipynb)
 
 - **(AI-PROJECT)** Mango🥭 Leaf🍃🍂 Disease Dataset: **source code will be upload soon**
 ## DAY 2: A PRACTICAL INTRODUCTION TO OBJECT DETECTION
