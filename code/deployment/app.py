@@ -24,11 +24,8 @@ def prediction_cls(prediction):
     for key, clss in class_names.items():
         if np.argmax(prediction)==clss:
             
+
             return key
-with st.sidebar:
-        st.image('mg.png')
-        st.title("Mangifera Healthika")
-        st.subheader("Accurate detection of diseases present in the mango leaves. This helps an user to easily detect the disease and identify it's cause.")         
         
 def prediction_cls(prediction):
     for key, clss in class_names.items():
@@ -41,13 +38,9 @@ st.set_option('deprecation.showfileUploaderEncoding', False)
 def load_model():
     model=tf.keras.models.load_model('mango_model.h5')
     return model
+
 with st.spinner('Model is being loaded..'):
     model=load_model()
-
-st.write("""
-         # Mango Disease Detection with Remedy Suggestion
-         """
-         )
 
 file = st.file_uploader("", type=["jpg", "png"])
 def import_and_predict(image_data, model):
