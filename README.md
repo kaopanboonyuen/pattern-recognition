@@ -30,7 +30,7 @@ Lecture Slides: [![Slides](https://raw.githubusercontent.com/kaopanboonyuen/2110
 
 ## DAY 2: A PRACTICAL INTRODUCTION TO OBJECT DETECTION
 
-- **(AI-PROJECT)** ✈️ Airbus Aircrafts Detection: ![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/pattern-recognition/blob/main/code/deeplearning/DAY2/aircraft_detection_with_yolov5_v2.ipynb)
+- **(AI-PROJECT)** ✈️ Airbus Aircrafts Detection: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/pattern-recognition/blob/main/code/deeplearning/DAY1/aircraft_detection_with_yolov5_v2.ipynb)
 
 ![alt text](https://github.com/kaopanboonyuen/pattern-recognition/raw/main/img/aircraft_result_001.png)
 ![alt text](https://github.com/kaopanboonyuen/pattern-recognition/raw/main/img/aircraft_result_002.png)
