@@ -7,6 +7,9 @@ import numpy as np
 import warnings
 warnings.filterwarnings("ignore")
 
+new_title = '<p style="font-family:sans-serif; color:Green; font-size: 72px;">ข้อความของเรา</p>'
+st.markdown(new_title, unsafe_allow_html=True)
+
 st.set_page_config(
     page_title="Mango Leaf Disease Detection",
     page_icon = ":mango:",
