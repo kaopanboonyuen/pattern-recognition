@@ -24,6 +24,8 @@ Lecture Slides: [![Slides](https://raw.githubusercontent.com/kaopanboonyuen/2110
 
 - **(AI-PROJECT)** Mango🥭 Leaf🍃🍂 Disease Dataset: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/pattern-recognition/blob/main/code/deeplearning/DAY1/mango_leaf_train_and_save_weight.ipynb)
 
+- **(SAMPLE-STREAMLIT-APP)** [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://github.com/kaopanboonyuen/pattern-recognition/raw/main/code/deployment/app.py)
+
 - **(ASSIGNMENT)** Natural-DataSet: https://github.com/kaopanboonyuen/pattern-recognition/blob/main/dataset/natural_images.zip
 
 ## DAY 2: A PRACTICAL INTRODUCTION TO OBJECT DETECTION
